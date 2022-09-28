@@ -1,4 +1,4 @@
-module gitlab.com/connect.club/jwt-generator.git
+module github.com/Connect-Club/connectclub-jwt-generator
 
 go 1.18
 
